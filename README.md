@@ -1,16 +1,15 @@
-# agroconnect
+# 🌱 AgroConnect - Farmer App
 
-A new Flutter project.
+AgroConnect is a Flutter-based mobile application designed to help farmers sell their products directly to consumers.  
+It provides a responsive interface with backend support for product listings, order tracking, and customer engagement.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 👨‍🌾 **Farmer Dashboard** – Upload and manage products
+- 🛒 **Shopping Cart** – Customers can add products and checkout
+- 📦 **Order Tracking** – Farmers can update order status; customers can view history
+- 🔍 **Product Catalog** – Search and filter products
+- 🔔 **Notifications** – Customers receive updates on product status
+- 🔐 **Authentication** – Secure farmer and customer login
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
